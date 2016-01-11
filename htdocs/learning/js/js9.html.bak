@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Output Javascript</title>
+
+</head>
+<body>
+<h1>innerHTML :)</h1>
+
+<script>
+
+function loozlz(){
+var text1, text2, text3, alltext, num;
+var t, f;
+t = true;
+f = false;
+
+var tt = 50;
+var ff = 50;
+
+hh = (tt == ff);
+
+
+var h = "16" + "Hacker";
+num = 4;
+text1 = "Good Morning";
+text2 = " ";
+text3 = "Teacher!!!.";
+alltext = text1 + text2 + text3;
+alltext += num;
+
+//var x = 50;
+//var y = 20;
+//var z = x + y;
+
+document.getElementById('hack01').innerHTML = hh;
+
+
+
+}
+</script>
+
+
+<button type="button" onclick="loozlz()">Loozlz......</button>
+
+
+<h1 id="hack01" style="color:red"></h1>
+
+
+
+
+
+
+</body>
+
+</html>

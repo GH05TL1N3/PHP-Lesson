@@ -1,0 +1,11 @@
+<?Php
+//PHP Data Objects (PDO)
+$dbHandle = new PDO("mysql:host={$config["sql"]["localhost"]};dbname={$config["sql"]["admin_clicknaka"]};charset=utf8;", $config["sql"]["root"], $config["sql"]["root"],array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES utf8"));
+$dbHandle->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+$dbHandle->setAttribute(PDO::ATTR_EMULATE_PREPARES, false);
+
+// Settings
+global $set;
+$stmt = $dbHandle->query("SELECT * FROM `settings` WHERE `id` = 1 LIMIT 1");
+$set = $stmt->fetch();
+?>

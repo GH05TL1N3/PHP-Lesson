@@ -1,0 +1,203 @@
+body{
+	background:#F5F5F5;
+}
+
+header{
+	background:#FFF;
+	padding:10px;
+	box-sizing:border-box;
+}
+
+section{
+	background:#FFF;
+	padding:10px;
+	box-sizing:border-box;
+}
+
+.navbar-inner{
+	border-radius:0;
+}
+
+.navbar{
+	margin-bottom:0;
+}
+
+.form-horizontal .control-label{
+	width:140px;
+}
+
+.form-horizontal .controls{
+	margin-left:150px;
+}
+
+.form-horizontal .form-actions{
+	padding-left:150px;
+}
+
+.form-actions, .form-horizontal{
+	margin-bottom:0;
+}
+
+.row{
+	width:100%;
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+
+[class*="span"]{
+	margin:0;
+}
+
+.span12 {
+	width: 100%;
+}
+.span11 {
+	width: 91.6667%;
+}
+.span10 {
+	width: 83.3333%;
+}
+.span9 {
+	width: 75%;
+}
+.span8 {
+	width: 66.6666%;
+}
+.span7 {
+	width: 58.3333%;
+}
+.span6 {
+	width: 50%;
+}
+.span5 {
+	width: 41.6667%;
+}
+.span4 {
+	width: 33.3333%;
+}
+.span3 {
+	width: 25%;
+}
+.span2 {
+	width: 16.6667%;
+}
+.span1 {
+	width: 8.3333%;
+}
+
+input[type="checkbox"]{
+	margin-top:0;
+}
+
+.checkbox > span{
+    width:11px;
+    height:11px;
+    box-sizing:border-box;
+    display:block;
+}
+
+#btn-facebook-login{
+	cursor:pointer;
+}
+
+footer{
+	margin-top:10px;
+	font-size:12px;
+}
+
+.box-post{
+	border:1px solid #d3d6db;
+	padding:10px;
+	box-sizing:border-box;
+	margin:auto;
+	margin-top:10px;
+	max-width:360px;
+	text-align:left;
+	opacity:0.6;
+	cursor:pointer;
+	transition:opacity 0.3s;
+	-webkit-transition:opacity 0.3s;
+	-o-transition:opacity 0.3s;
+	-moz-transition:opacity 0.3s;
+}
+
+.box-post:hover{
+	opacity:1;
+}
+
+.box-post > .top{
+	display:table;
+}
+
+.box-post > .top > .pic, .box-post > .top > .msg{
+	float:left;
+	margin-right:8px;
+}
+
+.box-post > .top > .msg > h5{
+	color:#3b5998;
+	margin:0;
+	margin-top:4px;
+	margin-bottom:1px;
+}
+
+.box-post > .top > .msg > div{
+	color:#89919c;
+	font-size:12px;
+}
+
+.box-post > .top > .pic > img{
+	border-radius:4px;
+	-webkit-border-radius:4px;
+	-o-border-radius:4px;
+	-moz-border-radius:4px;
+	width:40px;
+	height:40px;
+}
+
+.box-post > .msg{
+	margin:0;
+	margin-top:15px;
+	margin-bottom:5px;
+	font-size:15px;
+}
+
+#loading{
+	display:none;
+}
+
+#box-lish{
+	display:none;
+}
+
+@media (max-width: 480px) {
+	body{
+		padding-left:10px;
+		padding-right:10px;
+	}
+	.form-horizontal .controls{
+		margin-left:0;
+	}
+}
+
+@media (max-width: 767px) {
+	[class*="span"],
+	.uneditable-input[class*="span"],
+	.row-fluid [class*="span"] {
+		display: block;
+		float: none;
+		width: 100%;
+		margin-left: 0;
+		-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+				box-sizing: border-box;
+	}
+	.span12,
+	.row-fluid .span12 {
+		width: 100%;
+		-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+				box-sizing: border-box;
+	}
+}

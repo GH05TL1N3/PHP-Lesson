@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello Javascript :)</title>
+<script>
+function myFucntion(){
+document.getElementById('demo').innerHTML("Hacked by Loozlz NetMonsterz :/ ");	
+}
+</script>
+
+</head>
+<body>
+
+<p id="demo"> This is Normal text :p</p>
+
+<button type="button" onclick="myFucntion()">Click this to change text below.. :) </button>
+
+</body>
+
+</html>

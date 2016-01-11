@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Javascript</title>
+
+<script>
+function math(param1, param2){
+		var result;
+		result = param1 + param2;
+		return result;
+		}
+
+var a, b;
+a = 50;
+b = 20;
+
+document.getElementById('demo').innerHTML = math(a, b);
+
+</script>
+
+
+</head>
+<body>
+
+<h1>This is JS</h1>
+
+<p id="demo"></p>
+
+
+</body>
+</html>

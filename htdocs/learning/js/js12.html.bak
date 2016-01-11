@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Javascript Function</title>
+<script>
+
+function AddMath(param1, param2){
+	var result;
+	result = param1 + param2;
+	return result;
+	}
+	
+function showResult(){
+	var a = 6, b = 2, z;
+	z = AddMath(a, b);
+	document.getElementById('show').innerHTML = z;
+	}
+
+function Greeting(){
+			var name, parname, parlname;
+
+	
+
+			
+			parname = document.getElementById('name').value;
+			parlname = document.getElementById('lname').value;
+			name =  parname + " " + parlname;
+
+		
+			
+			document.getElementById('shown').innerHTML = "Welcom to this page" + " " + name;
+
+			//window.alert("Welcom" + " " + name);
+			
+			}
+
+
+</script>
+</head>
+<body>
+	
+	<h1>Test AddMath(); Function</h1><br><br>
+	<button type="button" onclick="showResult()"> Click this to execute result</button><br><br>
+	<b id="show" style="color:red; font-size:200%"></b>
+
+<br><br>
+
+<form>
+
+<input type="text" id="name" placeholder="name" required><br><br>
+<input type="text" id="lname" placeholder="lastname" required><br><br>
+
+<button type="submit" onclick="Greeting()">click</button>
+
+<b id="shown" style="color:red; font-size:200%"></b>
+
+</form>
+
+</body>
+</html>

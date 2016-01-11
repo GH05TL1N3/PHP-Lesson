@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Output Javascript</title>
+
+</head>
+<body>
+<h1>innerHTML :)</h1>
+
+<script>
+function loozlz(){
+document.getElementById('hack01').innerHTML = "Pwned By LoozlzNetz";
+}
+</script>
+
+
+
+<h1 id="hack01" style="color:red"></h1>
+
+
+
+</body>
+
+</html>

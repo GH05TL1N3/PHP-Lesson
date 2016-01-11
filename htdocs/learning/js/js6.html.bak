@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Output Javascript</title>
+
+</head>
+<body>
+<h1>innerHTML :)</h1>
+
+<script>
+function loozlz(){
+var x, y, z;
+x = 20;
+y = 100;
+z = x + y;
+document.getElementById('hack01').innerHTML = "Loozlz";
+}
+</script>
+
+
+<button type="button" onclick="loozlz()">Loozlz......</button>
+
+
+<h1 id="hack01" style="color:red"></h1>
+
+
+
+
+
+
+</body>
+
+</html>

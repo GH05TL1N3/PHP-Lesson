@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Output Javascript</title>
+
+</head>
+<body>
+<h1>innerHTML :)</h1>
+
+<script>
+function loozlz1(){
+var animals;
+var anuwat;
+anuwat = {career:"Programmer, Developer", skill:"Expert", age:19, status:"Single"}
+animals = ["Elephent", "Tiger", "Bird", "Dog", "Cat"];
+document.getElementById('hack01').innerHTML = anuwat.career;
+}
+
+
+function loozlz2(){
+var animals;
+var anuwat;
+anuwat = {career:"Programmer, Developer", skill:"Expert", age:19, status:"Single"}
+animals = ["Elephent", "Tiger", "Bird", "Dog", "Cat"];
+document.getElementById('hack02').innerHTML = anuwat.status;
+}
+
+function loozlz3(){
+var animals;
+var anuwat;
+anuwat = {career:"Programmer, Developer", skill:"Expert", age:19, status:"Single"}
+animals = ["Elephent", "Tiger", "Bird", "Dog", "Cat"];
+document.getElementById('hack03').innerHTML = anuwat.skill;
+}
+
+
+function loozlz4(){
+var animals;
+var anuwat;
+anuwat = {career:"Programmer, Developer", skill:"Expert", age:19, status:"Single"}
+animals = ["Elephent", "Tiger", "Bird", "Dog", "Cat"];
+document.getElementById('hack04').innerHTML = anuwat.age;
+}
+
+function loozlz5(){
+var animals;
+var anuwat;
+anuwat = {career:"Programmer, Developer", skill:"Expert", age:19, status:"Single"}
+animals = ["Elephent", "Tiger", "Bird", "Dog", "Cat"];
+document.getElementById('hack01').innerHTML = "";
+document.getElementById('hack02').innerHTML = "";
+document.getElementById('hack03').innerHTML = "";
+document.getElementById('hack04').innerHTML = "";
+}
+</script>
+
+
+<button type="button" onclick="loozlz1()">career.</button><br><br>
+<button type="button" onclick="loozlz2()">status</button><br><br>
+<button type="button" onclick="loozlz3()">skill</button><br><br>
+<button type="button" onclick="loozlz4()">age</button><br><br>
+<button type="button" onclick="loozlz5()">close</button><br><br>
+
+
+
+<h1 id="hack01" style="color:red"></h1>
+<h1 id="hack02" style="color:red"></h1>
+<h1 id="hack03" style="color:red"></h1>
+<h1 id="hack04" style="color:red"></h1>
+
+
+
+
+
+
+</body>
+
+</html>

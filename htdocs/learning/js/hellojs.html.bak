@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello Javascript :)</title>
+<style>
+body {background-color:lightgray;
+		}
+
+</style>
+
+</head>
+<body>
+<button type="button" onclick="document.getElementById('demo').innerHTML=Date()">Click to see time now </button>
+
+<p id="demo"></p>
+</body>
+
+</html>

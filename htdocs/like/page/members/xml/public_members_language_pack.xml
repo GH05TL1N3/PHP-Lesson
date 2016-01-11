@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languageexport>
+  <languagegroup>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>edit_member</word_key>
+      <word_default>Edit Member</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>mlist_view_start_title</word_key>
+      <word_default>View members starting with</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>sort_by</word_key>
+      <word_default>Sort by: </word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>mlist_view_all_txt</word_key>
+      <word_default>ALL</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>mlist_adv_filt_opt</word_key>
+      <word_default>Advanced Filter Options</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>mlist_view_all_title</word_key>
+      <word_default>View all members</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>mlist_header</word_key>
+      <word_default>Member List</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>mlist_adv_filt</word_key>
+      <word_default>More Search Options</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>page_title</word_key>
+      <word_default>Member List</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>sort_by_joined</word_key>
+      <word_default>Join Date</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>sort_submit</word_key>
+      <word_default>Apply Filters</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>ascending_order</word_key>
+      <word_default>Ascending Order</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>descending_order</word_key>
+      <word_default>Descending Order</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>sorting_text_results</word_key>
+      <word_default>results per page</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>member_posts</word_key>
+      <word_default>posts</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>member_name</word_key>
+      <word_default>Name</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>sorting_text_with</word_key>
+      <word_default>with</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>sorting_text_in</word_key>
+      <word_default>in</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>sorting_text_by</word_key>
+      <word_default>by</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>member_joined</word_key>
+      <word_default>Joined</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>sort_by_name</word_key>
+      <word_default>Member Name</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>member_group</word_key>
+      <word_default>Group</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>no_results</word_key>
+      <word_default>No Results</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>s_after</word_key>
+      <word_default>after</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>s_before</word_key>
+      <word_default>before</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>s_contains</word_key>
+      <word_default>contains</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>s_begins</word_key>
+      <word_default>begins with</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>s_lessthan</word_key>
+      <word_default>less than</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>s_morethan</word_key>
+      <word_default>more than</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>photo_only</word_key>
+      <word_default>Must have a photo</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>s_signature</word_key>
+      <word_default>Signature contains</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>s_dateformat</word_key>
+      <word_default>(MM-DD-YYYY)</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>s_name</word_key>
+      <word_default>Member name</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>s_lastvisit</word_key>
+      <word_default>Last visit is</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>s_lastpost</word_key>
+      <word_default>Last post is</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>s_joined</word_key>
+      <word_default>Join date is</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>s_posts</word_key>
+      <word_default>Post count is</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>members_start_with</word_key>
+      <word_default>View members starting with </word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>m_dd_views</word_key>
+      <word_default>Profile Views</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>sorty_by_jdate</word_key>
+      <word_default>Sort by Joined Date</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>m_stars</word_key>
+      <word_default>stars</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>m_views</word_key>
+      <word_default>Views</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>m_rating_morethan</word_key>
+      <word_default>Rating is higher than</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>m_rating</word_key>
+      <word_default>Rating</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>reputation</word_key>
+      <word_default>Reputation</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>pcount</word_key>
+      <word_default>Post Count</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>sort_by_posts</word_key>
+      <word_default>Sort by Total Posts</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>sort_by_mname</word_key>
+      <word_default>Sort by Member Name</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>show_all</word_key>
+      <word_default>Show All</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>member_has_x_rep_like</word_key>
+      <word_default>%s has %s likes</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_list</word_pack>
+      <word_key>member_has_x_rep</word_key>
+      <word_default>%s has %s reputation points</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>deleted_member</word_key>
+      <word_default>Deleted Member</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>pms_send_later</word_key>
+      <word_default>Save (Send later)</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>pm_preview</word_key>
+      <word_default>Preview</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>pm_pre_button</word_key>
+      <word_default>Preview Message</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>full</word_key>
+      <word_default>full</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>blocked</word_key>
+      <word_default>Blocked</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>submit_send</word_key>
+      <word_default>Send Message</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>c_msg_full</word_key>
+      <word_default><![CDATA[<br /><b>WARNING: YOUR FOLDERS ARE FULL<b><br />You MUST delete some saved messages in your inbox or folders before you can receive any more personal messages]]></word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>to_whom</word_key>
+      <word_default><![CDATA[Recipient's Name]]></word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>sent_text</word_key>
+      <word_default><![CDATA[Your message '<#MESSAGE_TITLE#>' has been sent. The recipient(s) will be informed that they have a new message.]]></word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>pmpc_unlimited</word_key>
+      <word_default>an unlimited amount of</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>pme_none_sent</word_key>
+      <word_default>This personal message has not been sent</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>pmpc_info_string</word_key>
+      <word_default>You have %s messages out of %s maximum storable messages</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>deleted_user</word_key>
+      <word_default>Deleted Member</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>m_messenger</word_key>
+      <word_default>Messenger</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>mess_new</word_key>
+      <word_default>Compose New Message</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>err_no_chosen_member</word_key>
+      <word_default>You must enter their name in the appropriate field fully.</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>err_errors</word_key>
+      <word_default>The following errors were found</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>err_no_msg</word_key>
+      <word_default>You must enter a message larger than 3 characters.</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>pmpc_full_string</word_key>
+      <word_default>Your messenger folders are %s percent full</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>pro_message</word_key>
+      <word_default>Message</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>pro_recips</word_key>
+      <word_default>Recipients</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>err_no_title</word_key>
+      <word_default>You must enter a message title longer than 2 characters.</word_default>
+    </lang>
+    <lang>
+      <word_app>members</word_app>
+      <word_pack>public_messaging</word_pack>
+      <word_key>err_NO_ONE_TO_INVITE</word_key>
+      <word_default>There is no one to invite either because you entered an incorrect name or they are currently participating</word_default>
+    </lang>
+    <lang>
+   

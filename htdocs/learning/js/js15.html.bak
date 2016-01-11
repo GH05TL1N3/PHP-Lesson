@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Javascript Function</title>
+<script>
+
+function AddMath(param1, param2){
+	var result;
+	result = param1 + param2;
+	return result;
+	}
+	
+function showResult(){
+	var a = 6, b = 2, z;
+	z = AddMath(a, b);
+	document.getElementById('show').innerHTML = z;
+	}
+
+function Greeting(){
+			var name, parname, parlname;
+
+	
+
+			
+			parname = document.getElementById('name').value;
+			parlname = document.getElementById('lname').value;
+			name =  parname + " " + parlname;
+			
+			if (name == " ")
+			{
+
+				document.getElementById('shown').innerHTML = "<br><br>Sorry please input your name!!"
+
+			//window.alert("Welcom" + " " + name);
+			}else if(parname == " "){
+			
+			document.getElementById('shown').innerHTML = "<br><br>Sorry please input your fisrt name!!;
+			
+			}else if(parlname == " "){
+			
+			document.getElementById('shown').innerHTML = "<br><br>Sorry please input your last name!!;
+			}
+			
+			
+			
+			}
+
+
+</script>
+</head>
+<body>
+	
+	<h1>Test AddMath(); Function</h1><br><br>
+	<button type="button" onclick="showResult()"> Click this to execute result</button><br><br>
+	<b id="show" style="color:red; font-size:200%"></b>
+
+<br><br>
+
+<form>
+
+<input type="text" id="name" placeholder="name" required><br><br>
+<input type="text" id="lname" placeholder="lastname" required><br><br>
+
+<button type="button" onclick="Greeting()">click</button>
+
+<b id="shown" style="color:red; font-size:200%"></b>
+
+</form>
+
+</body>
+</html>

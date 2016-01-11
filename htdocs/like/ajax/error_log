@@ -1,0 +1,20 @@
+[16-Dec-2013 19:28:01] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'fbuid' cannot be null' in /home/likefree/public_html/ajax/add-accesstoken.php:27
+Stack trace:
+#0 /home/likefree/public_html/ajax/add-accesstoken.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/likefree/public_html/ajax/add-accesstoken.php on line 27
+[16-Dec-2013 20:19:08] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'fbuid' cannot be null' in /home/likefree/public_html/ajax/add-accesstoken.php:27
+Stack trace:
+#0 /home/likefree/public_html/ajax/add-accesstoken.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/likefree/public_html/ajax/add-accesstoken.php on line 27
+[16-Dec-2013 20:20:20] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'fbuid' cannot be null' in /home/likefree/public_html/ajax/add-accesstoken.php:27
+Stack trace:
+#0 /home/likefree/public_html/ajax/add-accesstoken.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/likefree/public_html/ajax/add-accesstoken.php on line 27
+[16-Dec-2013 21:00:30] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'fbuid' cannot be null' in /home/likefree/public_html/ajax/add-accesstoken.php:27
+Stack trace:
+#0 /home/likefree/public_html/ajax/add-accesstoken.php(27): PDOStatement->execute()
+#1 {main}
+  thrown in /home/likefree/public_html/ajax/add-accesstoken.php on line 27

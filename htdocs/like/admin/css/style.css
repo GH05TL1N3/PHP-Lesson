@@ -1,0 +1,191 @@
+/* Admin Template By Host-1gb.com */
+
+body{
+	color:#3E95DA;
+}
+
+a{
+	color:#3E95DA;
+	text-decoration:none;
+}
+
+a:hover{
+	text-decoration:underline;
+}
+
+img{
+	max-width:100%;
+	border:none;
+}
+
+hr{
+	border:#E5F4FF solid 1px;
+	border-bottom:none;
+	margin:0;
+	margin-bottom:12px;
+}
+
+h2{
+	margin:0 0 10px 0;
+}
+
+.le-nav{
+	position:fixed;
+	left:0;
+	top:0;
+	bottom:0;
+	width:220px;
+	padding:0;
+	border-right:#B5EDFF 1px solid;
+	background:#ECFAFF;
+}
+
+.le-nav > h2{
+	margin:20px 0;
+}
+
+.le-nav > ul{
+	padding:0;
+	margin:0;
+}
+
+.le-nav > ul > li{
+	list-style:none;
+}
+
+.le-nav > ul > li > a{
+	padding:8px 0;
+	transition:padding 0.3s;
+	border-top:#B5EDFF 1px solid;
+	padding-left:20px;
+	cursor:pointer;
+	display:list-item;
+	color:#3E95DA;
+	text-decoration:none;
+}
+
+.le-nav > ul > li > a:hover{
+	padding-left:30px;
+}
+
+.le-nav > .butom-text{
+	position:absolute;
+	bottom:0;
+	width:100%;
+	box-sizing:border-box;
+	text-align:center;
+	font-size:12px;
+}
+
+.re-html{
+	margin-left:220px;
+	padding:10px;
+}
+
+form{
+}
+
+form > div{
+	margin-bottom:16px;
+}
+
+form > div > label{
+	width:160px;
+	display:inline-block;
+}
+
+input[type=text]:focus:required,
+input[type=password]:focus:required,
+input[type=tel]:focus:required,
+input[type=email]:focus:required,
+input[type=number]:focus:required{
+	background:#FFD7D7;
+	border:1px solid #F00;
+}
+
+input[type=text],input[type=text]:focus:valid,
+input[type=password],input[type=password]:focus:valid,
+input[type=tel],input[type=tel]:focus:valid,
+input[type=email],input[type=email]:focus:valid,
+input[type=number],input[type=number]:focus:valid,
+select{
+	padding:5px;
+	border:#CCC solid 1px;
+	margin:0;
+	outline:none;
+	background:#FFF;
+}
+
+table > thead{
+	background:#CAEDFF;
+}
+
+table > thead > tr > th{
+	border-bottom:2px #ADDFF6 solid;
+	padding:3px 0;
+}
+
+table > tbody > tr:hover{
+	background:#F0FAFF;
+}
+
+table > tbody > tr > td{
+	padding:3px;
+}
+
+table > tbody img{
+	max-width:100px;
+}
+
+table > tfoot > tr >td{
+	padding-top:5px;
+}
+
+table > tfoot > tr >td *{
+	font-size:12px;
+}
+
+.box-forum{
+	width:680px;
+	border:#A6DBFF 1px solid;
+	margin:auto;
+	margin-bottom:20px;
+	box-shadow:0 0 6px rgba(186, 233, 255, 0.59);
+	border-radius:5px;
+}
+
+.box-forum > .content{
+	font-size:16px;
+	padding:10px;
+	line-height:28px;
+}
+
+.box-forum > .footer{
+	font-size:12px;
+	padding:6px;
+	border-top:#A6DBFF 1px solid;
+}
+
+ul.pager{
+	display:inline-block;
+}
+
+ul.pager > li{
+	float:left;
+	list-style:none;
+}
+
+ul.pager > li > a{
+	border:#A6DBFF 1px solid;
+	padding:5px 8px;
+	border-left:none;
+}
+
+ul.pager > li:first-child > a{
+	border-left:#A6DBFF 1px solid;
+}
+
+ul.pager > li > a:hover{
+	background:#ECFAFF;
+	text-decoration:none;
+}

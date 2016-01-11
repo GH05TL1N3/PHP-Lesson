@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Output Javascript</title>
+
+</head>
+<body>
+<h1>innerHTML :)</h1>
+
+<script>
+
+function loozlz(){
+var xxx = "Pwned" + "By" + "Loozlz"; 
+var xx = 5 + 2 + 3;
+var u_define;
+var x, y, z;
+x = 20;
+y = 100;
+z = x + y;
+var pi = 3.14;
+var person = "John Doe";
+var answer = 'Yes I am!';
+//document.getElementById('hack01').innerHTML = z;
+//document.getElementById("hack01").innerHTML = pi;
+//document.getElementById("hack01").innerHTML = person;
+//document.getElementById("hack01").innerHTML = answer;
+document.getElementById("hack01").innerHTML = xxx;
+}
+</script>
+
+
+<button type="button" onclick="loozlz()">Loozlz......</button>
+
+
+<h1 id="hack01" style="color:red"></h1>
+
+
+
+
+
+
+</body>
+
+</html>
